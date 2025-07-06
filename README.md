@@ -1,7 +1,7 @@
-(https://media.licdn.com/dms/image/v2/D5616AQEbQnDdYrWNXQ/profile-displaybackgroundimage-shrink_350_1400/B56ZfgOzqVH8Ac-/0/1751813670564?e=1757548800&v=beta&t=I-R006OBpzQF_0kKFrNZtZkLFolkVXAXApKZI82xrP8)
+![I am Web Developer](https://media.licdn.com/dms/image/v2/D5616AQEbQnDdYrWNXQ/profile-displaybackgroundimage-shrink_350_1400/B56ZfgOzqVH8Ac-/0/1751813670564?e=1757548800&v=beta&t=I-R006OBpzQF_0kKFrNZtZkLFolkVXAXApKZI82xrP8)
 ### Hi there 👋, I'm Dhyman Choudhury
 #### I am Web Developer
-![I am Web Developer]
+
 
 Aspiring Web Developer skilled in React, JavaScript, Express.js, MongoDB, JWT, and basic Next.js. Eager to grow and contribute to remote projects.
 
