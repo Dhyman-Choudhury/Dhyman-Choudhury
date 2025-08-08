@@ -13,6 +13,12 @@
 <h1 align="center">Hi, I'm Dhyman Choudhury 👋</h1>
 <h3 align="center">Frontend Web Developer | MERN Stack Enthusiast</h3>
 
+
+## 📍 Location & Contact  
+- Location: Brahmanbaria, Bangladesh  
+- Email: dhyman2029@gmail.com  
+- Phone: +880 1234 567890 
+
 ---
 
 ## 🚀 About Me
