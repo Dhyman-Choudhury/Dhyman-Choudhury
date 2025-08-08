@@ -30,7 +30,7 @@ I aim to **build impactful digital products** and grow into a **full-stack devel
 
 ## 📌 Current Activities
 - 🌱 Exploring **Next.js** and **TypeScript**  
-- 💻 Working on a **tourism website** project  
+- 💻 Working on a **Fitness  website** project  
 - 📚 Learning **Data Structures & Algorithms** with Python & C++  
 - 🚀 Building **React + Node.js full-stack apps**  
 
