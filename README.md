@@ -7,21 +7,64 @@ Aspiring Web Developer skilled in React, JavaScript, Express.js, MongoDB, JWT, a
 
 Skills: HTML · CSS · Tailwind CSS · DaisyUI · JavaScript · DOM · React.js · Firebase · Express.js · MongoDB
 
-- 🔭 I’m currently working on A parcel delivery web app using React, Tailwind, and MongoDB 
-- 🌱 I’m currently learning JavaScript (ES6+), Next.js, TypeScript, Node.js, JWT 
-- 👯 I’m looking to collaborate on Open-source React or MERN stack projects 
-- 🤔 I’m looking for help with Advanced backend structure and secure authentication 
-- 💬 Ask me about Web Development, React, Firebase Auth, MongoDB 
-- 📫 How to reach me: dhyman2029@gmail.com, https://www.linkedin.com/in/dhyman-choudhury-284729347/ 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I started my journey in digital marketing and SEO — and now I'm coding full-stack apps that serve real users.  
+<!-- Name & Designation -->
+<h1 align="center">Hi, I'm Dhyman Choudhury 👋</h1>
+<h3 align="center">Frontend Web Developer | MERN Stack Enthusiast</h3>
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Dhyman-Choudhury)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dhyman-choudhury-284729347//)  
+## 🚀 About Me
+I’m a passionate and detail-oriented **Frontend Developer** with a background in **Chemical Engineering**.  
+Transitioning into tech, I now craft **responsive, user-friendly websites** and enjoy solving problems with modern web technologies.  
+I aim to **build impactful digital products** and grow into a **full-stack developer** role.
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Dhyman-Choudhury)](https://github.com/anuraghazra/github-readme-stats)
+## 📌 Current Activities
+- 🌱 Exploring **Next.js** and **TypeScript**  
+- 💻 Working on a **tourism website** project  
+- 📚 Learning **Data Structures & Algorithms** with Python & C++  
+- 🚀 Building **React + Node.js full-stack apps**  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Dhyman-Choudhury&show_icons=true&count_private=true)  
+---
+
+## 🛠 Skills  
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,postman" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://github.com/DhymanChoudhury" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/dhyman-choudhury" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:dhyman.c.dev@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhymanChoudhury&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhymanChoudhury&layout=compact&theme=radical" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhymanChoudhury&theme=radical" height="165" />
+</p>
+
+---  
 
