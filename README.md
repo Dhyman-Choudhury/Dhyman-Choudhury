@@ -1,18 +1,12 @@
 <p align="center">
   <img 
     src="https://i.ibb.co/kVCg6Lxh/Navy-Blue-Geometric-Technology-Linked-In-Banner-4.png" 
-    alt="Animated Banner" 
+    alt="Banner" 
     width="100%" 
-    style="border-radius: 10px; animation: floatAnimation 6s ease-in-out infinite;" 
+    style="border-radius: 10px;" 
   />
 </p>
 
-<style>
-@keyframes floatAnimation {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-15px); }
-}
-</style>
 
 
 <!-- Name & Designation -->
