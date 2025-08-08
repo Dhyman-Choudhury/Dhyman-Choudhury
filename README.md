@@ -23,7 +23,7 @@
 ---
 
 ##  About Me
-I’m a dedicated **Frontend Developer** with a background in **Chemical Engineering**, bringing strong analytical skills to web development.Proficient in **HTML, CSS, Tailwind, JavaScript, and React**, and expanding into backend technologies like **Node.js** and **MongoDB**. I strive to create **responsive, user-friendly applications** that solve real-world problems and enhance user experience.
+I’m a dedicated **Frontend Developer** with a background in **Chemical Engineering**, bringing strong analytical skills to web development. Proficient in **HTML, CSS, Tailwind, JavaScript, and React**, and expanding into backend technologies like **Node.js** and **MongoDB**. I strive to create **responsive, user-friendly applications** that solve real-world problems and enhance user experience.
 
 ---
 
