@@ -57,8 +57,8 @@ I aim to **build impactful digital products** and grow into a **full-stack devel
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://github.com/DhymanChoudhury" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.linkedin.com/in/dhyman-choudhury" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/Dhyman-Choudhury" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/dhyman-ch" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:dhyman.c.dev@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" /></a>
 </p>
 
