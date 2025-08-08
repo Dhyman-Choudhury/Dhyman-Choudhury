@@ -1,7 +1,19 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/9Tdfm8j/github-banner.png" alt="Dhyman Choudhury Banner" width="100%" />
+  <img 
+    src="https://i.ibb.co/kVCg6Lxh/Navy-Blue-Geometric-Technology-Linked-In-Banner-4.png" 
+    alt="Animated Banner" 
+    width="100%" 
+    style="border-radius: 10px; animation: floatAnimation 6s ease-in-out infinite;" 
+  />
 </p>
+
+<style>
+@keyframes floatAnimation {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-15px); }
+}
+</style>
+
 
 <!-- Name & Designation -->
 <h1 align="center">Hi, I'm Dhyman Choudhury 👋</h1>
