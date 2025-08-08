@@ -59,7 +59,10 @@ I aim to **build impactful digital products** and grow into a **full-stack devel
 <p align="left">
   <a href="https://github.com/Dhyman-Choudhury" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/in/dhyman-ch" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:dhyman.c.dev@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" /></a>
+  <a href="https://x.com/Dhyman2029" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="40" />
+</a>
+
 </p>
 
 ---
