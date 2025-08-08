@@ -23,11 +23,7 @@
 ---
 
 ##  About Me
- I’m a passionate and detail-oriented **Frontend Developer** with a strong foundation in **Chemical Engineering**, bringing analytical thinking and problem-solving skills into the tech world.  
- After transitioning from engineering to software development, I now specialize in crafting **responsive, accessible, and user-friendly web applications** using **HTML, CSS, Tailwind, JavaScript, and React**.  
- I have a keen eye for design, a love for clean, maintainable code, and a drive to continuously learn emerging technologies.  
- Currently, I’m enhancing my expertise in **backend development (Node.js, Express, MongoDB)** with the goal of becoming a **Full-Stack Developer**.  
- My mission is to **build impactful digital products** that solve real-world problems, deliver value, and create seamless user experiences. 
+I’m a dedicated **Frontend Developer** with a background in **Chemical Engineering**, bringing strong analytical skills to web development.Proficient in **HTML, CSS, Tailwind, JavaScript, and React**, and expanding into backend technologies like **Node.js** and **MongoDB**. I strive to create **responsive, user-friendly applications** that solve real-world problems and enhance user experience.
 
 ---
 
