@@ -15,14 +15,14 @@
 <h3 align="center">Frontend Web Developer | MERN Stack Enthusiast</h3>
 
 
-## 📍 Location & Contact  
+##  Location & Contact  
 - Location: Brahmanbaria, Bangladesh  
 - Email: dhyman2029@gmail.com  
 - Phone: +880 1234 567890 
 
 ---
 
-## 🚀 About Me
+##  About Me
  I’m a passionate and detail-oriented **Frontend Developer** with a strong foundation in **Chemical Engineering**, bringing analytical thinking and problem-solving skills into the tech world.  
  After transitioning from engineering to software development, I now specialize in crafting **responsive, accessible, and user-friendly web applications** using **HTML, CSS, Tailwind, JavaScript, and React**.  
  I have a keen eye for design, a love for clean, maintainable code, and a drive to continuously learn emerging technologies.  
@@ -31,7 +31,7 @@
 
 ---
 
-## 📌 Current Activities
+##  Current Activities
 -  Exploring **Next.js** and **TypeScript**  
 -  Working on a **Fitness  website** project  
 -  Learning **Data Structures & Algorithms** with Python & C++  
@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠 Skills  
+##  Skills  
 
 ### **Frontend**
 <p>
@@ -58,7 +58,7 @@
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 <p align="left">
   <a href="https://github.com/Dhyman-Choudhury" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/in/dhyman-ch" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
@@ -70,7 +70,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dhyman-Choudhury&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyman-Choudhury&layout=compact&theme=radical" alt="Top Languages" height="165" />
