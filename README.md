@@ -74,8 +74,9 @@ I aim to **build impactful digital products** and grow into a **full-stack devel
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhymanChoudhury&theme=radical" alt="GitHub Streak" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Dhyman-Choudhury&theme=radical" alt="GitHub Streak" height="165" />
 </p>
+
 
 
 
