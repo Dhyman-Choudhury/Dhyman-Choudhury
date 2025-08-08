@@ -32,10 +32,10 @@
 ---
 
 ## 📌 Current Activities
-- 🌱 Exploring **Next.js** and **TypeScript**  
-- 💻 Working on a **Fitness  website** project  
-- 📚 Learning **Data Structures & Algorithms** with Python & C++  
-- 🚀 Building **React + Node.js full-stack apps**  
+-  Exploring **Next.js** and **TypeScript**  
+-  Working on a **Fitness  website** project  
+-  Learning **Data Structures & Algorithms** with Python & C++  
+-  Building **React + Node.js full-stack apps**  
 
 ---
 
