@@ -1,3 +1,4 @@
+<div style="background-color: #121212; padding: 10px; border-radius: 10px;">
 <p align="center">
   <img 
     src="https://i.ibb.co/kVCg6Lxh/Navy-Blue-Geometric-Technology-Linked-In-Banner-4.png" 
@@ -77,7 +78,7 @@ I aim to **build impactful digital products** and grow into a **full-stack devel
   <img src="https://streak-stats.demolab.com/?user=Dhyman-Choudhury&theme=radical" alt="GitHub Streak" height="165" />
 </p>
 
-
+</div>
 
 
 ---
